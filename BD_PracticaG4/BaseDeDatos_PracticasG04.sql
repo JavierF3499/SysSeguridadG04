@@ -1,3 +1,5 @@
+-- Base de Datos
+
 Create database dbPracticaG04
 go
 Use dbPracticaG04
